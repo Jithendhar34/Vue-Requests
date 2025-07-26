@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Aravind",
+      "mail": "aravind@mail.com"
+    },
+    {
+      "id": 2,
+      "name": "Bhanu",
+      "mail": "bhanu@mail.com"
+    },
+    {
+      "id": 3,
+      "name": "Chandu",
+      "mail": "chandu@mail.com"
+    },
+    {
+      "id": 4,
+      "name": "Harish",
+      "mail": "harish@mail.com"
+    },
+    {
+      "id": 5,
+      "name": "Aravind",
+      "mail": "aravind2@mail.com"
+    },
+    {
+      "name": "K Jithendhar reddy ",
+      "mail": "jithendhar@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Rahul",
+      "mail": "Rahul@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "K Jithendhar ",
+      "mail": "Jithendhar@gmail.com",
+      "id": 8
+    },
+    {
+      "name": "K Jithendhar ",
+      "mail": "Jithendhar@gmail.com",
+      "id": 9
+    },
+    {
+      "name": " hfg",
+      "mail": "hfg@gmail.com",
+      "id": 10
+    }
+  ]
+}
